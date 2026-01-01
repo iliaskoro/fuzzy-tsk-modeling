@@ -129,7 +129,6 @@ All datasets used by **Projects 3 and 4** are stored centrally in:
 
 data/
 
-
 This avoids duplication and ensures consistency across experiments.
 
 ---
@@ -153,23 +152,16 @@ Each project can be executed independently.
 ## Requirements
 
 - MATLAB
-
 - Fuzzy Logic Toolbox
-
 - Control System Toolbox
-
 - Simulink (for control projects)
-
 - Statistics and Machine Learning Toolbox (for regression/classification)
 
 ## Notes
 
 - Each figures/ directory is documentation-only
-
 - Only files under src/ are required to reproduce simulations
-
 - All experiments are deterministic and fully reproducible
-
 - No proprietary or hidden dependencies are used
 
 ## Author
@@ -177,6 +169,5 @@ Each project can be executed independently.
 Ilias Korompilis
 
 ## License
-
 
 Academic and educational use only.
